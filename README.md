@@ -5,7 +5,6 @@
 
 | Project | Descrption | Repository |
 |-|-|-|
-| **Born2beroot** | Linux system administration and virtualization project | [🔗 Link ](https://github.com/achnouri/Born2beroot) |
 | **Minishell** | A Bash-inspired shell supporting pipes, redirections, environment variables, signals, and built-in commands | [🔗 Link ](https://github.com/achnouri/minishell-master) |
 | **Philosophers** | Implementation of the Dining Philosophers problem using threads and mutexes | [🔗 Link ](https://github.com/achnouri/Philosophers) |
 | **Minitalk** | Client/Server communication system using Unix signals | [🔗 Link ](https://github.com/achnouri/Minitalk) |
